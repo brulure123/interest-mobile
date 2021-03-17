@@ -1,0 +1,7 @@
+{
+  "name": "interest-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
